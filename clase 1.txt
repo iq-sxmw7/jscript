@@ -1,0 +1,53 @@
+*ALGORITMOS:
+ - Es una serie de pasos para obtener un resultado 
+
+·Elementos de un algoritmo 
+- entreda
+ - proceso
+- salida 
+
+·Caracteristicas de un algoritmo 
+- preciso
+- Defino
+- Finito 
+
+* PROGRAMACION 
+
+La programacion es el proceso de codificar, diseñar, depurar...
+
+· Estructura de un programa:
+
+- Entrada de datos 
+- proceso
+- Salida 
+ 
+·Lenguajes de programacion:
+ - Es un lenguaje formal diseñado para realizar procesos por una maquina en este caso la computadora 
+como Java, C++, Phyton 
+
+· Tipos de lenguaje de programacion:
+- Lenguaje de bajo nivel 
+- lenguaje de medio nivel 
+- lengiaje de alto nivel 
+
+* JAVASCRIPT 
+Es un tipo de lenguaje avanzado utilazado para el desarrollo de paginas web interactivas 
+ 
+- Node.js se creo en 2009 por el ing. Ryan Dahi, es un entorno de ejecucion de Javascript de codigo abierto y multiplataforma 
+
+* EDITOR DE CODIGO: 
+- Es una herramienta para escribir codigos de una manera mas facil, uno de los ejemplos es Visual Studio Core (VSC)  uno de los mas preferidos por los programadores 
+ya que te permite tener extensiones,
+
+* TERMINAL:
+- Se utiliza dentro del desarrollo, fueron muy populares en la decada de los 70 y 80.... 
+ 
+
+
+
+
+
+
+
+
+
